@@ -5,7 +5,7 @@
 
 ## 项目链接
 
-- [Vercel 项目管理页](https://vercel.com/p-ei-xuan/weekender)（需相应账号权限，非网站公开访问地址）
+- **在线访问：[weekender-three.vercel.app](https://weekender-three.vercel.app/)**
 
 ## 启动
 
