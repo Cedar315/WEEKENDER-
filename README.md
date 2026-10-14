@@ -3,6 +3,10 @@
 地图驱动的城市旅行探索 MVP，Next.js 15 + React 19 + TypeScript + Leaflet + Zod。
 当前目录最初为空，因此创建新项目，没有删除或重建任何已有代码。
 
+## 项目链接
+
+- [Vercel 项目管理页](https://vercel.com/p-ei-xuan/weekender)（需相应账号权限，非网站公开访问地址）
+
 ## 启动
 
 ```sh
